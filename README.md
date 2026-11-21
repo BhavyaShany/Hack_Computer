@@ -30,8 +30,7 @@ Screen address of a row = `16384 + K * 32`
 
 | K  | Start address |
 |----|---------------|
-| 90 | 19264 (old)   |
-| 24 | 17152 (current) |
+| 24 | 17152         |
 
 With K = 24 the box covers rows 24 to 43 (20 rows tall, 48 pixels wide).
 
