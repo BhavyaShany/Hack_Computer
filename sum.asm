@@ -1,0 +1,12 @@
+@arr
+D=M
+@j
+A=D+M
+D=M
+@sum
+M=D+M
+@arr
+D=M
+@j
+A=D+M
+M=M+1
